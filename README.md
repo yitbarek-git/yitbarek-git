@@ -8,8 +8,11 @@
 Building practical web applications and creating educational content that helps students learn.
 
 [![GitHub](https://img.shields.io/badge/GitHub-yitbarek--git-181717?style=flat-square&logo=github)](https://github.com/yitbarek-git)
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yitbarekk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yitbarekk)
+<br>
 [![YouTube](https://img.shields.io/badge/YouTube-Personal_Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@yitbarekk)
+<br>
 [![A+ Academy](https://img.shields.io/badge/A%2B_Academy-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@aplusacademy1)
 
 </div>
