@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=220&section=header&text=Yitbarek&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20Automation&descAlignY=58&descSize=18" width="100%" alt="Yitbarek"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=220&section=header&text=Yitbarek&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Content%20Creator&descAlignY=58&descSize=18" width="100%" alt="Yitbarek"/>
 
 <a href="https://github.com/yitbarek-git">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=764BA2&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Python+Automation+Developer;Educational+Content+Creator;Building+Software.+Creating+Content." alt="Typing SVG"/>
