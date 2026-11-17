@@ -8,10 +8,20 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yitbarekk.vercel.app-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://yitbarekk.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yitbarek-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yitbarekk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ykifleyohans@gmail.com)
+
+<br/>
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yitbarekk)
 [![A+ Academy](https://img.shields.io/badge/A%2B_Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aplusacademy1)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yitbarekk21)
+
+<br/>
+
+📍 Ethiopia · 🎓 Bahir Dar University · 🔥 247 contributions in the last year
 
 </div>
 
@@ -41,8 +51,9 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Yitbarek
-role: Full-Stack Developer
+name: Yitbarek K.
+role: Full-Stack Developer & Python Automation Engineer
+location: Ethiopia (Bahir Dar University)
 focus:
   - Web Applications
   - Python Automation
@@ -59,7 +70,7 @@ mission: Build useful software. Teach what I learn.
 
 ✍️ Sharing educational content with thousands of students through YouTube.
 
-💬 Ask me about React, Node.js, Python, and software development.
+💬 Ask me about React, Node.js, TypeScript, Python, and automation.
 
 ⚡ I enjoy turning repetitive manual workflows into automated solutions.
 
@@ -67,6 +78,7 @@ mission: Build useful software. Teach what I learn.
 <div align="center">
 🌐 Frontend Development
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF
@@ -93,10 +105,25 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF
 https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000
+https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF
 
 </div>
 🚀 Featured Projects
 <table> <tr> <td width="50%" valign="top">
+🛒 Ethiomarket App
+A full-stack marketplace web application built with a TypeScript stack, connecting buyers and sellers with a modern, responsive interface.
+
+Technologies:
+
+https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF
+https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF
+https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF
+https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF
+
+https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white
+
+</td> <td width="50%" valign="top">
 🌐 Anchor Solutions
 A bilingual vocational learning platform delivering practical skills training and structured learning paths for students.
 
@@ -110,7 +137,7 @@ https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor
 
 https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white
 
-</td> <td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
 🤖 Telegram Enrollment Bot
 A Telegram-based enrollment system featuring payment receipt submission, admin approval workflows, enrollment status tracking, and controlled access management.
 
@@ -123,11 +150,21 @@ https://img.shields.io/badge/REST_API-667EEA?style=flat-square&logo=fastapi&logo
 
 https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white
 
-</td> </tr> </table>
-💡 Update the second card's repo link to the direct Telegram bot repo once public.
+</td> <td width="50%" valign="top">
+🎨 Personal Portfolio Bot
+A Python-powered portfolio bot that automates interaction and delivers profile information through an intelligent conversational interface.
 
+Technologies:
+
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF
+https://img.shields.io/badge/python--telegram--bot-2CA5E0?style=flat-square&logo=telegram&logoColor=FFFFFF
+https://img.shields.io/badge/REST_API-667EEA?style=flat-square&logo=fastapi&logoColor=FFFFFF
+
+https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white
+
+</td> </tr> </table>
 📊 GitHub Analytics
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=yitbarek-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yitbarek-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=yitbarek-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yitbarek-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 <img src="https://streak-stats.demolab.com/?user=yitbarek-git&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></div>
 🎓 Educational Content
 <div align="center"><a href="https://www.youtube.com/@aplusacademy1"> <img src="https://img.shields.io/badge/A%2B_Academy-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
@@ -147,10 +184,15 @@ Open to collaboration, freelance opportunities, and interesting conversations ar
 
 
 
+https://img.shields.io/badge/%F0%9F%8C%90_Visit_Portfolio-667EEA?style=for-the-badge&logo=vercel&logoColor=white
 https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+
+
 https://img.shields.io/badge/Watch_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Subscribe_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Subscribe_A%2B_Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Follow_on_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 
 </div>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer&text=Learning%20Continuously%20%7C%20Building%20Thoughtfully%20%7C%20Sharing%20Knowledge&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%"/></div> ```
