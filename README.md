@@ -16,7 +16,7 @@
 <sub>
   📍 Ethiopia &nbsp;·&nbsp;
   🎓 Bahir Dar University &nbsp;·&nbsp;
-  🔥 <img src="https://github-contributions-api.jogruber.de/v4/yitbarek-git?format=svg" height="16" alt="GitHub contributions"/>
+  🔥Software Enginnering
 </sub>
 
 </div>
