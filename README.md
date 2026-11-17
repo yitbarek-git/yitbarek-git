@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=220&section=header&text=Yitbarek&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20Automation&descAlignY=58&descSize=18" width="100%" alt="Yitbarek"/>
 
 <a href="https://github.com/yitbarek-git">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=764BA2&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Python+Automation+Developer;Educational+Content+Creator;Building+Thoughtfully.+Sharing+Knowledge." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=764BA2&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Python+Automation+Developer;Educational+Content+Creator;Building+Software.+Creating+Content." alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -116,12 +116,6 @@ A **bilingual vocational learning platform** delivering structured skills traini
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=yitbarek-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Stats" alt="GitHub stats"/>
 &nbsp;
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yitbarek-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css"
-  alt="Top languages"
-/>
-
 </div>
 
 <br/>
