@@ -13,7 +13,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yitbarekk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ykifleyohans@gmail.com)
 
-<sub>📍 Ethiopia &nbsp;·&nbsp; 🎓 Bahir Dar University &nbsp;·&nbsp; 🔥 247 contributions this year</sub>
+<sub>
+  📍 Ethiopia &nbsp;·&nbsp;
+  🎓 Bahir Dar University &nbsp;·&nbsp;
+  🔥 <img src="https://github-contributions-api.jogruber.de/v4/yitbarek-git?format=svg" height="16" alt="GitHub contributions"/>
+</sub>
 
 </div>
 
@@ -23,9 +27,9 @@
 
 ## 🌱 About Me
 
-I build **web applications** and **automation tools** that solve real problems. I'm a full-stack developer from Ethiopia who also creates educational content for university students through **A+ Academy**.
+I build web applications and automation tools to solve practical problems. I'm a full-stack developer from Ethiopia, currently learning, building projects, and improving my skills through hands-on experience. I also create educational content for university students through A+ Academy, sharing what I learn along the way.
 
-Currently deepening my skills in **system design** and **advanced Python** — and always looking for opportunities to turn repetitive workflows into one-line scripts.
+I'm currently exploring system design, backend development, and  Advanced Python, with a particular interest in making everyday tasks simpler through useful software and automation.
 
 <br/>
 
