@@ -114,8 +114,6 @@ A **bilingual vocational learning platform** delivering structured skills traini
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yitbarek-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Stats" alt="GitHub stats"/>
-&nbsp;
 </div>
 
 <br/>
