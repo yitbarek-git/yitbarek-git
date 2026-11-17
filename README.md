@@ -39,15 +39,16 @@ I'm currently exploring system design, backend development, and  Advanced Python
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,express,mysql,python,selenium,git,github,vscode,linux,vercel,postman&theme=dark&perline=8" alt="tech stack"/>
+<!-- Core technologies -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,express,mysql,python,git,github,vscode&theme=dark&perline=8" alt="Technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Frontend-React_·_Vite_·_TypeScript-667EEA?style=flat-square" alt="frontend"/>
+<img src="https://img.shields.io/badge/Frontend-React_·_Vite_·_TypeScript-667EEA?style=flat-square" alt="Frontend"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Backend-Node_·_Express_·_MySQL-764BA2?style=flat-square" alt="backend"/>
+<img src="https://img.shields.io/badge/Backend-Node.js_·_Express_·_MySQL-764BA2?style=flat-square" alt="Backend"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Automation-Python_·_Selenium_·_Telegram-2CA5E0?style=flat-square" alt="automation"/>
+<img src="https://img.shields.io/badge/Automation-Python_·_Telegram_Bots-2CA5E0?style=flat-square" alt="Automation"/>
 
 </div>
 
