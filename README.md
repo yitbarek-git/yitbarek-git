@@ -24,7 +24,7 @@
 
 <br/>
 
----
+
 
 ## 🌱 About Me
 
@@ -34,7 +34,7 @@ I'm currently exploring system design, backend development, and  Advanced Python
 
 <br/>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ I'm currently exploring system design, backend development, and  Advanced Python
 
 <br/>
 
----
+
 
 ## 🚀 Featured Work
 
@@ -105,7 +105,7 @@ A **bilingual vocational learning platform** delivering structured skills traini
 
 <br/>
 
----
+
 
 ## 📊 GitHub Activity
 
@@ -117,7 +117,7 @@ A **bilingual vocational learning platform** delivering structured skills traini
 
 </div>
 <br/>
----
+
 
 ## 🎓 Educational Content
 
@@ -138,7 +138,7 @@ Technology, education, student life, and digital skills.
 
 </div>
 <br/>
----
+
 
 ## 🤝 Let's Connect
 
