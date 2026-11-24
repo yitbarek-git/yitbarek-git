@@ -14,9 +14,10 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ykifleyohans@gmail.com)
 
 <sub>
-  📍 Ethiopia &nbsp;·&nbsp;
-  🎓 Bahir Dar University &nbsp;·&nbsp;
-  🔥Software Enginnering
+  🔥Web development &nbsp;·&nbsp;
+  🎓 Python Automation &nbsp;·&nbsp;
+  📍 Software Enginnering
+  
 </sub>
 
 </div>
